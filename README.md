@@ -1,27 +1,28 @@
 # Hi there, I'm Jared Kahn 👋
 
-🎓 **Graduate Student in Computer Science** at [Your University Name]  
-🎯 **Focus Areas:** [e.g., Software Engineering | Machine Learning | Systems Architecture]  
-📫 **Connect with me:** [LinkedIn Link] | [Personal Website/Blog Link]
+🎓 **M.S. in Computer Science and Artificial Intelligence** (Boston University)  
+💼 **Senior Software Engineer at Salesforce** specializing in Agentic Developer Experience, Full-Stack Web Platforms, and Distributed Systems.  
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/kahnj) | [GitHub](https://github.com/jared-kahn) | [Email](mailto:kahn.j@northeastern.edu)
 
 ---
 
-## 💻 Technical Skills & Toolkit
-* **Languages:** Python, C++, Java, JavaScript, SQL
-* **Tools & Frameworks:** Git, Docker, PyTorch, React, Linux
-* **Core Competencies:** Data Structures & Algorithms, Object-Oriented Design, Database Management
+## 💻 Technical Expertise & Toolkit
+* **Languages:** Java, TypeScript, JavaScript, Python
+* **AI & Data Frameworks:** PyTorch, scikit-learn, NLTK, spaCy, Transformers, LangChain, CUDA, Azure AI Search
+* **Web & Cloud Systems:** React, Next, Django, Spring, Docker, PostgreSQL, MongoDB, Neo4j, Kubernetes/Cloud Infrastructure
+* **Core Competencies:** Full-Stack Architecture, Autonomous Agent Workflows (MCP Servers), MLOps, Distributed Systems, GPU/Cloud Optimization
 
 ---
 
 ## 🚀 Projects & Technical Interests
-I am passionate about solving complex computational problems in [e.g., scalable backend systems / automated data processing / intelligent systems]. 
+My professional work and graduate studies focus on scaling enterprise web platforms, developing agentic developer tooling, and building production-grade AI systems.
 
-* 🔍 **Current Focus:** Developing expertise in [e.g., high-performance algorithms / distributed systems].
-* 🛠️ **Featured Work:** Check out my repositories below for sample implementations and coursework projects.
+* 🔍 **Current Focus:** Advancing through Boston University's AI and Systems tracks—mastering everything from foundational mathematics and applied machine learning to cloud computing, scalable data analytics, and GPU-accelerated workloads.
+* 🛠️ **Featured Work:** Explore my repositories for project highlights, including an automated quoting system, MOSS plagiarism detection implementation, data-driven visualization tools, and upcoming capstone work building a language model from scratch.
 
 ---
 
 ## 🎯 Learning & Career Goals
-* 📈 Expanding my knowledge in modern software development methodologies.
-* 🤝 Seeking collaborative opportunities and open-source contributions.
-* 🎓 Building robust, production-grade applications as part of my M.S. in Computer Science program.
+* 📈 Bridging enterprise software engineering at Salesforce with cutting-edge artificial intelligence and distributed systems research through my M.S. program at Boston University.
+* 🤝 Collaborating on modern UI frameworks, high-performance developer tooling, and robust MLOps/cloud-native architectures.
+* 🎓 Building production-ready, end-to-end intelligent applications that seamlessly transition from prototyping to large-scale deployment.
