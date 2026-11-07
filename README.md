@@ -2,6 +2,7 @@
 
 🎓 **M.S. in Computer Science and Artificial Intelligence** (Boston University)  
 💼 **Senior Software Engineer at Salesforce** specializing in Agentic Developer Experience, Full-Stack Web Platforms, and Distributed Systems.  
+📄 **[View My Professional Resume](https://github.com/kahnj/kahnj/blob/main/Jared%20Kahn's%20Resume.pdf)**  
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/kahnj) | [GitHub](https://github.com/jared-kahn) | [Email](mailto:kahn.j@northeastern.edu)
 
 ---
