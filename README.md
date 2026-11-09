@@ -10,15 +10,6 @@
 
 ---
 
-### 💻 Technical Expertise & Toolkit
-
-* **Languages:** Java, TypeScript, JavaScript, Python
-* **AI & Data Frameworks:** PyTorch, scikit-learn, NLTK, spaCy, Transformers, LangChain, Azure AI Search
-* **Web & Cloud Systems:** React, Next.js, Django, Spring, Docker, PostgreSQL, MongoDB, Neo4j, Kubernetes / Cloud Infrastructure
-* **Core Competencies:** Full-Stack Architecture, Enterprise Autonomous Agents (Skills, Memory, MCP, Harnesses), Distributed Systems
-
----
-
 ### 🚀 Projects & Technical Interests
 
 Building on the foundation of my Bachelor's degree at Northeastern, my current graduate work at Boston University and professional engineering at Salesforce focus on scaling enterprise web platforms and building production-grade AI systems that empower business users with autonomous workflows.
@@ -27,6 +18,15 @@ Building on the foundation of my Bachelor's degree at Northeastern, my current g
 * 🛠️ **Featured & Academic Work:**
   * 🚲 **Interactive Visualization of Bicycle Safety in Boston** ([Live Demo](https://northeastern-ds-4200-f19.github.io/project-team-8-bikes/) | [Source Code](https://github.com/Northeastern-DS-4200-F19/project-team-8-bikes))
     * Data visualization build with d3.js mapping urban bicycle infrastructure and safety metrics (Northeastern DS 4200).
+   
+---
+
+### 💻 Technical Expertise & Toolkit
+
+* **Languages:** Java, TypeScript, JavaScript, Python
+* **AI & Data Frameworks:** PyTorch, scikit-learn, NLTK, spaCy, Transformers, LangChain, Azure AI Search
+* **Web & Cloud Systems:** React, Next.js, Django, Spring, Docker, PostgreSQL, MongoDB, Neo4j, Kubernetes / Cloud Infrastructure
+* **Core Competencies:** Full-Stack Architecture, Enterprise Autonomous Agents (Skills, Memory, MCP, Harnesses), Distributed Systems
 
 ---
 
