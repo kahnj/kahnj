@@ -12,7 +12,7 @@
 ### 💻 Technical Expertise & Toolkit
 
 * **Languages:** Java, TypeScript, JavaScript, Python
-* **AI & Data Frameworks:** PyTorch, scikit-learn, NLTK, spaCy, Transformers, LangChain, CUDA, Azure AI Search
+* **AI & Data Frameworks:** PyTorch, scikit-learn, NLTK, spaCy, Transformers, LangChain, Azure AI Search
 * **Web & Cloud Systems:** React, Next.js, Django, Spring, Docker, PostgreSQL, MongoDB, Neo4j, Kubernetes / Cloud Infrastructure
 * **Core Competencies:** Full-Stack Architecture, Enterprise Autonomous Agents (Skills, Memory, MCP, Harnesses), Distributed Systems
 
