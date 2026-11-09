@@ -3,7 +3,7 @@
 💼 **Senior Software Engineer at Salesforce** specializing in democratizing enterprise agentic AI tools, full-stack web platforms, and distributed systems.
 
 🎓 **M.S. Candidate in Computer Science and Artificial Intelligence** | Boston University  
-🎓 **B.S. in Data Science & Computer Science** | Northeastern University  
+🎓 **B.S. in Computer Science & Business Administration** | Northeastern University  
 
 📄 **[View My Professional Resume](./Resume.pdf)**  
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
