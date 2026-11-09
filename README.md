@@ -25,8 +25,7 @@ Building on the foundation of my Bachelor's degree at Northeastern, my current g
 * 🔍 **Current Focus:** Advancing through BU's AI and Systems tracks—mastering foundational mathematics, applied machine learning, cloud analytics, and GPU-accelerated workloads.
 * 🛠️ **Featured & Academic Work:**
   * 🚲 **Interactive Visualization of Bicycle Safety in Boston** ([Live Demo](https://northeastern-ds-4200-f19.github.io/project-team-8-bikes/) | [Source Code](https://github.com/Northeastern-DS-4200-F19/project-team-8-bikes))
-   * Data visualization build with d3.js mapping urban bicycle infrastructure and safety metrics (Northeastern DS 4200).
-  * ⚙️ **Foundational Systems & AI:** Academic projects including an automated quoting system, MOSS plagiarism detection implementation, and upcoming graduate capstone work building a custom language model from scratch.
+    * Data visualization build with d3.js mapping urban bicycle infrastructure and safety metrics (Northeastern DS 4200).
 
 ---
 
