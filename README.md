@@ -1,7 +1,7 @@
 # Hi there, I'm Jared Kahn 👋
 
 🎓 **M.S. Candidate in Computer Science and Artificial Intelligence** | Boston University  
-🎓 **B.S. in [Your Undergrad Major]** | [Your Undergrad University Name]  
+🎓 **B.S. in Data Science & Computer Science** | Northeastern University  
 💼 **Senior Software Engineer at Salesforce** specializing in democratizing enterprise agentic AI tools, full-stack web platforms, and distributed systems.
 
 📄 **[View My Professional Resume](./Resume.pdf)**  
@@ -20,10 +20,12 @@
 
 ### 🚀 Projects & Technical Interests
 
-Building on the foundation of my Bachelor's degree, my current graduate work at Boston University and professional engineering at Salesforce focus on scaling enterprise web platforms and building production-grade AI systems to empower business users with autonomous workflows.
+Building on the foundation of my Bachelor's degree at Northeastern, my current graduate work at Boston University and professional engineering at Salesforce focus on scaling enterprise web platforms and building production-grade AI systems that empower business users with autonomous workflows.
 
 * 🔍 **Current Focus:** Advancing through BU's AI and Systems tracks—mastering foundational mathematics, applied machine learning, cloud analytics, and GPU-accelerated workloads.
-* 🛠️ **Featured Work:** Explore my repositories for project highlights, including an automated quoting system, MOSS plagiarism detection implementation, data-driven visualization tools, and upcoming capstone work building a custom language model from scratch.
+* 🛠️ **Featured & Academic Work:**
+  * 🚲 **[Interactive Visualization of Bicycle Safety in Boston](https://github.com/Northeastern-DS-4200-F19/project-team-8-bikes):** Data visualization application mapping urban bicycle infrastructure and safety metrics (Northeastern DS 4200).
+  * ⚙️ **Foundational Systems & AI:** Academic projects including an automated quoting system, MOSS plagiarism detection implementation, and upcoming graduate capstone work building a custom language model from scratch.
 
 ---
 
