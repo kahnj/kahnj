@@ -5,7 +5,7 @@
 🎓 **M.S. Candidate in Computer Science and Artificial Intelligence** | Boston University  
 🎓 **B.S. in Computer Science & Business Administration** | Northeastern University  
 
-📄 **[View My Professional Resume](./Resume.pdf)**  
+📄 **[View My Professional Resume](./Jared%20Kahn's%20Resume.pdf)**  
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
 
 ---
